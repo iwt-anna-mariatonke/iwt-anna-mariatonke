@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iwt-anna-mariatonke
 - 👀 I’m interested in UI Design.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Aviv Design System.
 - 📫 https://www.linkedin.com/in/anna-maria-tonke-94893821b/
 
